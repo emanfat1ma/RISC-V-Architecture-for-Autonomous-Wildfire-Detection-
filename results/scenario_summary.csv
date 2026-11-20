@@ -1,0 +1,10 @@
+scenario,mode,energy_mj_per_day,avg_power_uw,core_wakeups,idle_wakeups,transmissions,false_transmissions,missed_fires,latency_mean_s,latency_max_s,avg_cycles_per_wake
+normal,event,21.5136,0.249,0,0,0,0,,,,0
+normal,polling_naive,302.848,3.50518,1440,1440,0,0,,,,12
+normal,polling_validated,302.848,3.50518,1440,1440,0,0,,,,12
+heatwave,event,33.5313,0.388093,0.4,0.4,0.4,0.4,,,,33.9
+heatwave,polling_naive,464.913,5.38093,1440,1440,5.4,5.4,,,,12.2475
+heatwave,polling_validated,314.852,3.64413,1440,1440,0.4,0.4,,,,12.0711
+wildfire,event,3332.38,38.5692,110.2,0,110.2,0,0,13.1476,14.0123,172.987
+wildfire,polling_naive,3640.19,42.1318,1440,884,111.2,0,0,46.1475,61.0384,17.4829
+wildfire,polling_validated,3640.19,42.1318,1440,884,111.2,0,0,46.1475,61.0384,17.4829

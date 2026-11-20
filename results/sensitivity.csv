@@ -1,0 +1,12 @@
+parameter,nominal_ratio_mix,nominal_ratio_normal_day,ratio_mix_x0.5,ratio_normal_x0.5,ratio_mix_x2.0,ratio_normal_x2.0
+tier1_current_a,8.22275,14.077,8.74633,15.7891,7.34355,11.5683
+tier2_current_a,8.22275,14.077,10.2726,22.0452,5.87724,8.17058
+gated_core_leakage_a,8.22275,14.077,8.3618,14.5142,7.95809,13.2772
+baseline_sleep_current_a,8.22275,14.077,4.89706,8.05293,14.8742,26.1252
+active_current_a,8.22275,14.077,8.22256,14.0767,8.22314,14.0778
+doze_current_a,8.22275,14.077,8.2234,14.077,8.22146,14.077
+wake_transition_energy_j,8.22275,14.077,8.22288,14.077,8.22251,14.077
+baseline_wake_energy_j,8.22275,14.077,8.21721,14.067,8.23384,14.0971
+sensor_sample_energy_j,8.22275,14.077,7.67019,13.073,9.32715,16.0851
+radio_tx_current_a,8.22275,14.077,10.3009,14.077,5.99325,14.077
+radio_tx_time_s,8.22275,14.077,10.3019,14.077,5.99263,14.077

@@ -1,0 +1,4 @@
+mode,avg_power_uw,lifetime_years_no_selfdischarge,lifetime_years_2pct_selfdischarge,power_ratio_vs_event,battery_energy_j
+event,0.451033,2276.32,48.9253,1,32400
+polling_naive,3.83899,267.438,42.1245,8.51156,32400
+polling_validated,3.70873,276.831,42.3508,8.22275,32400
