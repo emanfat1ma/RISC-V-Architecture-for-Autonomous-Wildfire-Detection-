@@ -1,0 +1,7 @@
+config,boot_cycles,cycles_to_first_radio_write,total_cycles,instructions,cpi,wake_to_radio_us,total_active_us
+fwd=on/stall,103,142,177,123,1.43902,142,177
+fwd=on/not_taken,101,138,171,123,1.39024,138,171
+fwd=on/bimodal,89,126,159,123,1.29268,126,159
+fwd=off/stall,140,200,248,123,2.01626,200,248
+fwd=off/not_taken,138,196,242,123,1.96748,196,242
+fwd=off/bimodal,126,184,230,123,1.86992,184,230
